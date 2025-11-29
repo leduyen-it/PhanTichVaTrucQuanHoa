@@ -44,6 +44,8 @@ Sao chép mã
 Dữ liệu nguồn có thể tải về trên Kaggle hoặc UCI:
 https://archive.ics.uci.edu/dataset/352/online+retail
 
+---
+
 Dự án không chỉ đáp ứng yêu cầu môn học mà còn có thể áp dụng vào thực tế kinh doanh, giúp doanh nghiệp đưa ra quyết định dựa trên dữ liệu (data-driven decisions).
 
 📧 Liên hệ: leduyenltbn@gmail.com
