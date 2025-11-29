@@ -37,6 +37,9 @@ Notebook sử dụng các thư viện Python phổ biến:
 │── PT&TQHDL.ipynb             # notebook phân tích & trực quan hóa  
 │── README.md                  # file hướng dẫn này  
 
+Dữ liệu nguồn này các bạn có thể tìm thấy trên Kaggle qua link: https://archive.ics.uci.edu/dataset/352/online+retail.
+Tại đây bạn có thể tải file dữ liệu về máy dưới dạng .csv hoặc xlsx
+
 ---
 
 Dự án không chỉ đáp ứng yêu cầu môn học mà còn có thể áp dụng trực tiếp vào thực tế kinh doanh, giúp doanh nghiệp đưa ra quyết định dựa trên dữ liệu (data-driven decisions).
