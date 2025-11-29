@@ -37,6 +37,8 @@ Notebook sử dụng các thư viện Python phổ biến:
 │── PT&TQHDL.ipynb             # notebook phân tích & trực quan hóa  
 │── README.md                  # file hướng dẫn này  
 
+---
+
 Dự án không chỉ đáp ứng yêu cầu môn học mà còn có thể áp dụng trực tiếp vào thực tế kinh doanh, giúp doanh nghiệp đưa ra quyết định dựa trên dữ liệu (data-driven decisions).
 
 📧 Liên hệ: leduyenltbn@gmail.com 🔗 GitHub: [Link repository của bạn]
