@@ -2,6 +2,12 @@
 
 **Dự án:** Phân tích & trực quan hóa dữ liệu bán lẻ sử dụng Python / Jupyter Notebook trên Google Colab
 
+Dự án không chỉ đáp ứng yêu cầu môn học mà còn có thể áp dụng vào thực tế , giúp đưa ra quyết định dựa trên dữ liệu (data-driven decisions).
+
+📧 Liên hệ: leduyenltbn@gmail.com
+🔗 GitHub: [Link repository của bạn]
+📅 Ngày cập nhật: Tháng 11, 2025
+
 ## 📄 Mô tả  
 Dự án này thực hiện **khám phá, xử lý, phân tích dữ liệu** và **trực quan hóa kết quả**.  
 Trong repo bạn sẽ tìm thấy:  
@@ -43,11 +49,3 @@ Sao chép mã
 │── README.md                  # file hướng dẫn này  
 Dữ liệu nguồn có thể tải về trên Kaggle hoặc UCI:
 https://archive.ics.uci.edu/dataset/352/online+retail
-
----
-
-Dự án không chỉ đáp ứng yêu cầu môn học mà còn có thể áp dụng vào thực tế kinh doanh, giúp doanh nghiệp đưa ra quyết định dựa trên dữ liệu (data-driven decisions).
-
-📧 Liên hệ: leduyenltbn@gmail.com
-🔗 GitHub: [Link repository của bạn]
-📅 Ngày cập nhật: Tháng 11, 2025
